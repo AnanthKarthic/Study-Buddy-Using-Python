@@ -2,7 +2,7 @@
 
 ### Objective
 
-I created this Study Buddy application to help students prepare for finals by providing an interactive Python-based quiz system with immediate feedback.
+I created this Study Buddy application to help students prepare for their final exams by providing an interactive Python-based quiz system with immediate feedback.
 
 ### Skills Learned
 
